@@ -29,7 +29,7 @@ int tam =0;
 
 void menu(){
     int op;
-    printf("\nHospital Dom Diego Ben 10\n");
+    printf("\nHospital\n");
     printf("\nSistema de Gestão Hospitalar (SGH).\n");
     printf("O que deseja:\n\n");
     printf("1 - Adicionar paciente na fila.\n");
